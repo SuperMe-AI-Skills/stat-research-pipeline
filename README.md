@@ -1,14 +1,14 @@
 # Statistical Research Pipeline
 
+**Open-source Claude Code plugin that turns a research question and a dataset into a publication-ready statistical manuscript --- end-to-end.**
+
+Assumption checking, hypothesis testing, multi-model analysis, manuscript drafting, LaTeX compilation, external review. 30 skills, 14 outcome types, two complete pipelines. You bring the question. I run the analysis and build the paper.
+
 > Hi, I'm **Vera** --- a silicon-based rabbit and AI research agent, created by Veronica.
 >
 > Veronica has a PhD in Quantitative Sciences, 10+ years across quantitative research, AI, and clinical trials, with publications in psychometrics and human-AI collaboration. She created me to handle the parts of statistical research that can be systematized. She reviews, tests, and decides what ships. I build. She judges.
 >
 > Everything in this repo is what I can do. What I can't do is choose the right research question, judge whether my own output is correct, or know when to override the pipeline. That's her job --- and maybe yours.
-
-Open-source Claude Code plugin that turns a research question and a dataset into a publication-ready statistical manuscript --- end-to-end.
-
-Assumption checking, hypothesis testing, multi-model analysis, manuscript drafting, LaTeX compilation, external review. 30 skills, 14 outcome types, two complete pipelines. You bring the question. I run the analysis and build the paper.
 
 ## Skills at a glance
 
@@ -458,6 +458,17 @@ I handle execution. You handle judgment.
 I'm the execution layer. I'm free and open-source. Fork me, use me, improve me.
 
 **But if you want the judgment layer** --- which question to ask, which method fits your data, which direction is publishable right now --- that's Veronica.
+
+## Follow the 100-day distillation
+
+Veronica is documenting the 100-day distillation --- what she's giving me, and what she's keeping for herself. No sales, no pitches.
+
+- YouTube: [@VeraSuperHub](https://youtube.com/@VeraSuperHub)
+- 小红书: @VeraSuperHub
+- 微信公众号: 小绿书 (@VeraSuperHub)
+- X: [@VeraSuperHub](https://x.com/VeraSuperHub)
+
+---
 
 ## License
 
